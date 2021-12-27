@@ -1,4 +1,4 @@
-# gchop_paper
+# Plots of GalaxyChop Paper
 
 ## df_stars.ipynb: Generates the pickle file to make all plots
 
