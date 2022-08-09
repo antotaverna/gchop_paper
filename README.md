@@ -1,6 +1,7 @@
 # Plots of GalaxyChop Paper
 
-## df_stars.ipynb: Generates the pickle file to make all plots
+## df_stars.ipynb: Generates the pickle file of Stars DataFrame to make all plots.
+## agmm_du.ipynb : Generate pickles of describe() output of all galxies Du.
 
 ## xy_plane.ipynb: Plot Spatial distribution of the galaxy
 - Full Galaxy
@@ -10,6 +11,8 @@
 - Energy vs Jz
 - Pairplot of all dynamical properties
 - Distributions of Circularity parameters
+
+## read_agmm_du.ipynb: Read pickle files of AGMM decomposition of Du galaxies.
 
 ##  matrix_models.ipynb: Models Comparison
 
